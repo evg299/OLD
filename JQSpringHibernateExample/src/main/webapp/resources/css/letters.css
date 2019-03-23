@@ -1,0 +1,53 @@
+html, body{
+	margin: 0 auto;
+	width: 1001px;
+	color: #333;
+}
+
+.header {
+	text-align: center;
+	margin-bottom: 5px;
+	border-bottom: 2px #c4c4c4 solid;
+	
+}
+
+.ltable {
+	width: 100%;
+	border: 1px dotted gray;
+}
+
+.ltablehead {
+	text-align: center;
+	font-weight: bold;
+	background-color: navy;
+	color: white;
+}
+
+.ltablerow {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-size: 11px;
+}
+
+.ltablerow td {
+	padding: 0 3px 0 3px;
+}
+
+.lform {
+	margin: 13px;
+}
+
+.lformerror {
+	color: red;
+	border: red solid 2px;
+	padding: 5px;
+}
+
+.lerror {
+	color: red;
+}
+
+.splitter {
+	margin-bottom: 12px;
+	margin-top: 5px;
+	border-top: gray dashed 1px;
+}

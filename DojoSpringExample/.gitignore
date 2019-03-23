@@ -1,0 +1,7 @@
+.idea14
+target
+logs
+.idea
+.DS_Store
+*.iml
+.gitreview
